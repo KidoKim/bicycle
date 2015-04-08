@@ -7,6 +7,7 @@ install_requires = [
     'alembic==0.7.4',
     'gunicorn==19.3.0',
     'fabric==1.10.1',
+    'flask-sqlalchemy==0.16',
 ]
 
 setup(
